@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<airlines xmlns="http://www.example.com/airlines" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.example.com/airlines airline.xsd">
+<airline aircraft-number="100" dates="2016-04-05" gates="a100" id="id1" type="shanged"/>
+<airline aircraft-number="234" dates="2016-05-30" gates="a21" id="id2" type="shanged"/>
+</airlines>
